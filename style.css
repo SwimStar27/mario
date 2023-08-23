@@ -1,0 +1,66 @@
+body{
+    background-color: #fbe6ff;
+}
+
+
+#dd{
+    display: inline;
+}
+
+
+#ins{
+    float: right;
+    background-color: #c4f6ff;
+    color: gray;
+}
+
+
+#head{
+  font-size: x-large;
+  font-family: 'Oswald', sans-serif;    
+  background-color: #e3ffea;
+ width:100%;
+}   
+
+#startb{
+    background-color: #c4f6ff;
+    color: gray;
+    font-size: large;
+    font-family: 'Oswald', sans-serif;    
+}
+
+#cred{
+    font-size: large;
+    font-family: 'Oswald', sans-serif;  
+    color: #55a6b5;
+}
+
+#jump{
+    width: 420px;
+}
+
+#main{
+    width: 50%;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+
+.cb{
+    float: right;
+}
+
+#mario{
+    width: 800px;
+    height: 600px;
+}
+
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+#webcam{
+    width: 100%;
+}
